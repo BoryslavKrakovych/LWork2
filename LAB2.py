@@ -16,4 +16,3 @@ px = 1/plt.rcParams['figure.dpi']
 plt.subplots(figsize=(960*px, 540*px))
 plt.scatter(x,y)
 plt.savefig('LAB2.png')
-plt.show()
